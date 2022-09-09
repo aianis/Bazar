@@ -1,2 +1,2 @@
-# e-commerce-web-app
-E-commerce web app. 
+# e-commerce-website
+E-commerce website. 
