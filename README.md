@@ -1,2 +1,2 @@
-# e-commerce-website
+# Bazar
 E-commerce website. 
